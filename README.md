@@ -7,7 +7,7 @@
 <img src="https://raw.github.com/andelf/PyAIML/master/screenshot.jpg" />
 
 NOTE:
-- WB: Integrate the JieBa word segmenterfor my research of spoken language understanding
+- 2015/08/27 by Liang: Integrate the JieBa word segmenterfor my research of spoken language understanding
 - 目前可以支持中文规则
 - 规则库目测翻译量巨大
 - 规则中请使用半角标点
@@ -16,7 +16,7 @@ NOTE:
 - 可以完美保存会话进度
 
 Changelog:
-- 2015/08/27
+- 2015/08/27 by Liang
   - modified the LangSupport.py to integrate JieBa word segmenter
   - modify the aimlparser.py to correct the BOT_NAME assignment
   - add the ability to employ vlc to play music
